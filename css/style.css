@@ -1,0 +1,20 @@
+body{
+  background: #ff9de2;
+}
+
+h1{
+ text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+footer a{
+    margin:0 10px;
+    color: #11cbd7;
+}
