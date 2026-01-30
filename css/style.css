@@ -10,6 +10,13 @@ p{
   text-align: center;
 }
 
+.croissants-image{
+    max-width: 40%;
+    border-radius: 20px;
+    margin: 20px;
+    display: block;
+}
+
 footer{
     text-align: center;
 }
